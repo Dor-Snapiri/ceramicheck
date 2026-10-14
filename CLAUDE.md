@@ -79,7 +79,7 @@ supabase/migrations/    SQL migrations (every schema change goes here)
    - [x] Create Next.js project (create-next-app defaults)
    - [x] Hebrew/RTL layout and Heebo font
    - [x] Push to GitHub
-   - [ ] Supabase project and client helpers
+   - [x] Supabase project and client helpers
    - [ ] Auth with student/admin roles
    - [ ] Schema migrations
    - [ ] Deploy to Vercel
